@@ -1,0 +1,1 @@
+x86_64-pc-linux-gnu-g++ -O2 -g -Wall -Wextra -Wno-parentheses -Wno-unused-parameter -I/usr/include/libpng16 -DUSE_TILE           

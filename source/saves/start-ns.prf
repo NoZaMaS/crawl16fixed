@@ -1,0 +1,6 @@
+type = normal
+name = MATE
+species = Minotaur
+background = Berserker
+weapon = mace
+fully_random = no
