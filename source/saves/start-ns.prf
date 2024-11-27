@@ -1,6 +1,6 @@
 type = normal
-name = MATE
-species = Minotaur
+name = nox
+species = Human
 background = Berserker
-weapon = mace
+weapon = claws
 fully_random = no
